@@ -20,12 +20,6 @@
   revision = "22d885f9ecc78bf4ee5d72b937e4bbcdc58e8cae"
 
 [[projects]]
-  name = "github.com/gin-gonic/autotls"
-  packages = ["."]
-  revision = "5b3297bdcee778ff3bbdc99ab7c41e1c2677d22d"
-  version = "0.0.1"
-
-[[projects]]
   name = "github.com/gin-gonic/gin"
   packages = [".","binding","render"]
   revision = "d459835d2b077e44f7c9b453505ee29881d5d12d"
@@ -76,7 +70,7 @@
   branch = "master"
   name = "github.com/requilence/integram"
   packages = ["."]
-  revision = "56eda09aa5a3f57500e764738fd04eca7b9b04e9"
+  revision = "4d7cecb8c96e900011664a6c274aa89fe72bb4c0"
 
 [[projects]]
   branch = "master"
@@ -127,7 +121,7 @@
 [[projects]]
   branch = "master"
   name = "golang.org/x/crypto"
-  packages = ["acme","acme/autocert","ssh/terminal"]
+  packages = ["ssh/terminal"]
   revision = "13931e22f9e72ea58bb73048bc752b48c6d4d4ac"
 
 [[projects]]
@@ -175,6 +169,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "eb451f57cf9ed73892ae5120c6fc9679c059ea09c608f6ca4798f3158071db20"
+  inputs-digest = "02ac0e8be9b82f346d2017c1c7fe4a06c7b55a27d664a38191c843ecd92dc982"
   solver-name = "gps-cdcl"
   solver-version = 1
