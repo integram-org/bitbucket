@@ -70,7 +70,7 @@
   branch = "master"
   name = "github.com/requilence/integram"
   packages = ["."]
-  revision = "a610819bcd4714e7ed30826696fe6e4342b860a9"
+  revision = "1bb63d9794f0b5f222f9d965e40991e83f321ef5"
 
 [[projects]]
   branch = "master"
